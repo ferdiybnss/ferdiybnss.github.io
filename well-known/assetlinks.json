@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ferdiybnss.twa",
+      "sha256_cert_fingerprints": [
+        "40:A2:0A:CA:4B:20:F9:C9:4E:42:79:6A:E6:90:C7:02:6D:DE:AE:1D:16:3F:47:0C:88:BB:92:F6:5C:D6:6C:EF"
+      ]
+    }
+  }
+]
